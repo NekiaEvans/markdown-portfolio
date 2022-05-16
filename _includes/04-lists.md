@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Good Food
+- Good Friends
+- Beautiful Places
+- Mild Weather
